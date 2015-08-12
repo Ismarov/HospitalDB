@@ -2,3 +2,4 @@
 *.ddl
 .project
 
+*.working
